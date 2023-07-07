@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EhliyetAlmaDurumKontrol", "EhliyetAlmaDurumKontrol\EhliyetAlmaDurumKontrol.csproj", "{D5ECFAFF-CC7B-4792-AC3B-AE8CF590E76D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5ECFAFF-CC7B-4792-AC3B-AE8CF590E76D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5ECFAFF-CC7B-4792-AC3B-AE8CF590E76D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5ECFAFF-CC7B-4792-AC3B-AE8CF590E76D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5ECFAFF-CC7B-4792-AC3B-AE8CF590E76D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F454331A-AD56-4C90-897E-9AE98C81E348}
+	EndGlobalSection
+EndGlobal

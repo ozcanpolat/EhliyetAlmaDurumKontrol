@@ -1,0 +1,14 @@
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\EhliyetAlmaDurumKontrol\EhliyetAlmaDurumKontrol\bin\Debug\netcoreapp3.1\EhliyetAlmaDurumKontrol.exe
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\EhliyetAlmaDurumKontrol\EhliyetAlmaDurumKontrol\bin\Debug\netcoreapp3.1\EhliyetAlmaDurumKontrol.deps.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\EhliyetAlmaDurumKontrol\EhliyetAlmaDurumKontrol\bin\Debug\netcoreapp3.1\EhliyetAlmaDurumKontrol.runtimeconfig.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\EhliyetAlmaDurumKontrol\EhliyetAlmaDurumKontrol\bin\Debug\netcoreapp3.1\EhliyetAlmaDurumKontrol.runtimeconfig.dev.json
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\EhliyetAlmaDurumKontrol\EhliyetAlmaDurumKontrol\bin\Debug\netcoreapp3.1\EhliyetAlmaDurumKontrol.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\EhliyetAlmaDurumKontrol\EhliyetAlmaDurumKontrol\bin\Debug\netcoreapp3.1\EhliyetAlmaDurumKontrol.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\EhliyetAlmaDurumKontrol\EhliyetAlmaDurumKontrol\obj\Debug\netcoreapp3.1\EhliyetAlmaDurumKontrol.csproj.AssemblyReference.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\EhliyetAlmaDurumKontrol\EhliyetAlmaDurumKontrol\obj\Debug\netcoreapp3.1\EhliyetAlmaDurumKontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\EhliyetAlmaDurumKontrol\EhliyetAlmaDurumKontrol\obj\Debug\netcoreapp3.1\EhliyetAlmaDurumKontrol.AssemblyInfoInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\EhliyetAlmaDurumKontrol\EhliyetAlmaDurumKontrol\obj\Debug\netcoreapp3.1\EhliyetAlmaDurumKontrol.AssemblyInfo.cs
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\EhliyetAlmaDurumKontrol\EhliyetAlmaDurumKontrol\obj\Debug\netcoreapp3.1\EhliyetAlmaDurumKontrol.csproj.CoreCompileInputs.cache
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\EhliyetAlmaDurumKontrol\EhliyetAlmaDurumKontrol\obj\Debug\netcoreapp3.1\EhliyetAlmaDurumKontrol.dll
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\EhliyetAlmaDurumKontrol\EhliyetAlmaDurumKontrol\obj\Debug\netcoreapp3.1\EhliyetAlmaDurumKontrol.pdb
+C:\Users\ozcan\OneDrive\Masaüstü\C# Uygulamalar\EhliyetAlmaDurumKontrol\EhliyetAlmaDurumKontrol\obj\Debug\netcoreapp3.1\EhliyetAlmaDurumKontrol.genruntimeconfig.cache
